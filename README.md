@@ -5,7 +5,7 @@
 <h2 align="center">Teste Técnico - Target Sistemas</h2>
 
 <h1 align="center">
-    <img width="800px" alt="TargetSistemas" title="#TargetSistemas" src="https://github.com/freitasbr01/target-sistemas/blob/main/assets/layout.png" />
+    <img width="800px" alt="TargetSistemas" title="#TargetSistemas" src="https://github.com/freitasbr01/target-sistemas-rp/blob/main/assets/layout.png" />
 </h1>
 
 
@@ -21,7 +21,7 @@ Este projeto apresenta uma aplicação web interativa e intuitiva, desenvolvida 
 
 A interface é composta por uma lista clara e organizada de perguntas, com botões clicáveis para exibir as respostas correspondentes. Essa abordagem não apenas demonstra a aplicação das soluções para os problemas propostos, mas também oferece uma experiência de usuário envolvente e fácil de navegar.
 
-Link de acesso - <a href="https://technical-test-target.netlify.app/">Teste Técnico</a>
+Link de acesso - <a href="https://technical-test-target-rp.netlify.app/">Teste Técnico</a>
 
 Projeto desenvolvido durante o processo de seleção para a vaga de Estágio - Ribeirão Preto na **Target Sistemas**.
 
